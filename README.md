@@ -1712,6 +1712,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse/tree/main/skill)** - Search, call, and read websites via hosted API or MCP
 - **[fujibee/agmsg](https://github.com/fujibee/agmsg)** - Message passing between Claude Code, Codex and Gemini CLI sessions
 - **[exadel-inc/agentic-readiness-assessment](https://github.com/exadel-inc/agentic-readiness-assessment/tree/main/skills/agentic-readiness-assessment)** - Assess repository readiness for AI coding agents and prioritize fixes.
+- **[ollygarden/opentelemetry-agent-skills](https://github.com/ollygarden/opentelemetry-agent-skills)** - Vendor-neutral OpenTelemetry skills: SDKs, Collector, OTTL, semantic conventions
 - **[hermes-labs-ai/little-canary](https://github.com/hermes-labs-ai/little-canary/blob/main/.agents/skills/little-canary/SKILL.md)** - Screen inbound text with a sacrificial canary
 - **[allxsmith/bestax](https://github.com/allxsmith/bestax/tree/main/skills)** - Build Bulma React pages, forms, and themes with Bestax
 - **[marvkr/better-design](https://github.com/marvkr/better-design/tree/main/skills/better-design)** - Build and review interfaces with Better Design design systems
