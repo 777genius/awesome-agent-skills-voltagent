@@ -1701,6 +1701,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[kulchankas/paranoid](https://github.com/kulchankas/paranoid)** - Pentests your running app: find, prove, patch, re-verify
 - **[gal-a/qikly](https://github.com/gal-a/qikly/tree/main/.claude/skills/qikly)** - Writes pytest suites from criteria the coding agent never sees
 - **[prisma/skills](https://github.com/prisma/skills)** - Official Prisma skills: ORM, Postgres, Compute and migrations
+- **[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)** - Unlock AI design potential through UI exploration and visual review
 
 </details>
 
