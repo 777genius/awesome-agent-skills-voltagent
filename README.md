@@ -1692,6 +1692,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[fujibee/agmsg](https://github.com/fujibee/agmsg)** - Message passing between Claude Code, Codex and Gemini CLI sessions
 - **[exadel-inc/agentic-readiness-assessment](https://github.com/exadel-inc/agentic-readiness-assessment/tree/main/skills/agentic-readiness-assessment)** - Assess repository readiness for AI coding agents and prioritize fixes.
 - **[ollygarden/opentelemetry-agent-skills](https://github.com/ollygarden/opentelemetry-agent-skills)** - Vendor-neutral OpenTelemetry skills: SDKs, Collector, OTTL, semantic conventions
+- **[szarkans/multi](https://github.com/szarkans/multi)** - several models review the same code, one merged report
 - **[gongdear/cline-pilot](https://github.com/gongdear/cline-pilot)** - Delegate coding tasks to Cline CLI with context management
 - **[hermes-labs-ai/little-canary](https://github.com/hermes-labs-ai/little-canary/blob/main/.agents/skills/little-canary/SKILL.md)** - Screen inbound text with a sacrificial canary
 - **[allxsmith/bestax](https://github.com/allxsmith/bestax/tree/main/skills)** - Build Bulma React pages, forms, and themes with Bestax
@@ -1701,6 +1702,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[kulchankas/paranoid](https://github.com/kulchankas/paranoid)** - Pentests your running app: find, prove, patch, re-verify
 - **[gal-a/qikly](https://github.com/gal-a/qikly/tree/main/.claude/skills/qikly)** - Writes pytest suites from criteria the coding agent never sees
 - **[prisma/skills](https://github.com/prisma/skills)** - Official Prisma skills: ORM, Postgres, Compute and migrations
+- **[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)** - Unlock AI design potential through UI exploration and visual review
 
 </details>
 
