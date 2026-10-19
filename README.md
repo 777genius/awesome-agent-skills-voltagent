@@ -79,30 +79,7 @@ The most contributed Agent Skills repository, built and maintained together with
 
 
 
-<br/>
 
-You ship products with AI, but every launch still dies quietly because nobody posts about it. [EveryFeed](https://everyfeed.ai/) plugs your AI assistant into a social workspace that drafts, schedules, and publishes across 35+ channels — no agency, no marketing hire.
-
-<a href="https://everyfeed.ai/">
-<img src="https://cdn.voltagent.dev/awesome-repo/everyfeed-social.png" alt="everyfeed"  /><br/>
-</a>
-
-<br/>
-
-
-
-<a href="https://launchkit.getdesign.md/">
-<img src="https://cdn.voltagent.dev/awesome-repo/website-starter-kit-banner-dark-0315e5f9c1.png" alt="launchkit"  /><br/>
-</a>
-
-<br/>
-
-
-<a href="https://mobile-starterkit.getdesign.md/">
-<img src="https://cdn.voltagent.dev/awesome-repo/mobile-starter-kit-banner-light-450ba0a9b0.png" alt="mobilekit"  /><br/>
-</a>
-
-<br/>
 
 
 <details open>
@@ -1550,7 +1527,9 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[vanshyadav1408/linkedin-outreach](https://github.com/vanshyadav1408/Omentir/tree/main/plugins/omentir/skills/linkedin-outreach)** - LinkedIn prospecting, scoring, and outreach drafts through Omentir MCP
 - **[socai-io/jev-social](https://github.com/socai-io/jev-social/tree/v0.1.10/skills/jev-social)** - Route local social research through Jev and socai CLI
 - **[explorium-ai/vibe-prospecting](https://github.com/explorium-ai/vibeprospecting-plugin/tree/main/skills/vibe-prospecting)** - B2B prospecting enrichment and GTM data workflows
+- **[nagameTW/formosa-humanizer](https://github.com/nagameTW/formosa-humanizer)** - Removes AI-writing markers from Taiwan Traditional Chinese text
 - **[Upload-Post/upload-post-skill](https://github.com/Upload-Post/upload-post-skill)** - Publish and schedule social media posts through one API
+- **[publora/skills](https://github.com/publora/skills)** - Draft, schedule and publish posts to ten social networks
 
 </details>
 
@@ -1561,6 +1540,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[notiondevs/Notion Skills for Claude](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0)** - Skills for working with Notion
 - **[op7418/NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills)** - AI-powered PPT generation with document analysis and styled images
 - **[zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)** - Generate animation-rich HTML presentations with visual style previews
+- **[sujunmin/agy-ppt](https://github.com/sujunmin/agy-ppt)** - Generate PowerPoint decks without the AI-slop look, purpose-built for the Antigravity+Kiro+Codex pipeline; GPT image rendering handles dense Traditional Chinese slide text far better than Gemini
 - **[gokapso/integrate-whatsapp](https://github.com/gokapso/agent-skills/tree/master/skills/integrate-whatsapp)** - Connect WhatsApp, set up webhooks, and send messages
 - **[gokapso/automate-whatsapp](https://github.com/gokapso/agent-skills/tree/master/skills/automate-whatsapp)** - Build WhatsApp automations with workflows and agents
 - **[gokapso/observe-whatsapp](https://github.com/gokapso/agent-skills/tree/master/skills/observe-whatsapp)** - Debug WhatsApp delivery issues and run health checks
@@ -1703,7 +1683,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Continuum-AI-Corp/orca-replay](https://github.com/Continuum-AI-Corp/OrcaReplay/tree/main/skills/orca-replay)** - Answer questions about past agent runs from their recordings
 - **[tt-a1i/archify](https://github.com/tt-a1i/archify/tree/main/archify)** - Generate validated interactive architecture diagrams from codebases or system descriptions
 - **[d1vai/d1v](https://github.com/d1vai/d1v-cli/blob/main/skills/d1v/SKILL.md)** - Deploy web projects with verified previews and confirmed production releases
-- **[kensaurus/cursor-kenji](https://github.com/kensaurus/cursor-kenji)** - Ready-made playbooks your coding agent auto-triggers
+- **[kensaurus/skills](https://github.com/kensaurus/skills)** - Ready-made playbooks your coding agent auto-triggers
 - **[saleh-alhaddad/itqan-engineering](https://github.com/saleh-alhaddad/itqan-engineering)** - Full software-engineering lifecycle in 12 skills: a resumable orchestrator plus spec, plan, TDD build, verify, five-axis review, security, and release — with approval gates before code and evidence before "done"
 - **[hermes-labs-ai/lintlang](https://github.com/hermes-labs-ai/lintlang/blob/main/.agents/skills/lintlang/SKILL.md)** - Lint agent instructions for ambiguous tools and missing bounds
 - **[fishzjp/qa-skills](https://github.com/fishzjp/qa-skills)** - QA engineering for AI coding agents: full lifecycle, measured gains
@@ -1712,12 +1692,21 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse/tree/main/skill)** - Search, call, and read websites via hosted API or MCP
 - **[fujibee/agmsg](https://github.com/fujibee/agmsg)** - Message passing between Claude Code, Codex and Gemini CLI sessions
 - **[exadel-inc/agentic-readiness-assessment](https://github.com/exadel-inc/agentic-readiness-assessment/tree/main/skills/agentic-readiness-assessment)** - Assess repository readiness for AI coding agents and prioritize fixes.
+- **[hasuwini77/3d-logo](https://github.com/hasuwini77/3d-logo-skill)** - Turn any logo into a 3D spinning coin React component
+- **[ollygarden/opentelemetry-agent-skills](https://github.com/ollygarden/opentelemetry-agent-skills)** - Vendor-neutral OpenTelemetry skills: SDKs, Collector, OTTL, semantic conventions
+- **[szarkans/multi](https://github.com/szarkans/multi)** - several models review the same code, one merged report
+- **[gongdear/cline-pilot](https://github.com/gongdear/cline-pilot)** - Delegate coding tasks to Cline CLI with context management
+- **[hermes-labs-ai/little-canary](https://github.com/hermes-labs-ai/little-canary/blob/main/.agents/skills/little-canary/SKILL.md)** - Screen inbound text with a sacrificial canary
+- **[allxsmith/bestax](https://github.com/allxsmith/bestax/tree/main/skills)** - Build Bulma React pages, forms, and themes with Bestax
 - **[marvkr/better-design](https://github.com/marvkr/better-design/tree/main/skills/better-design)** - Build and review interfaces with Better Design design systems
 - **[UiPath/task](https://github.com/UiPath/coder_eval/tree/main/plugins/coder-eval/skills/task)** - Turns plain English into validated eval tasks for coding agents
 - **[half144/cutaway](https://github.com/half144/cutaway)** - Record polished demo videos of web flows with Playwright
 - **[kulchankas/paranoid](https://github.com/kulchankas/paranoid)** - Pentests your running app: find, prove, patch, re-verify
 - **[gal-a/qikly](https://github.com/gal-a/qikly/tree/main/.claude/skills/qikly)** - Writes pytest suites from criteria the coding agent never sees
 - **[supercorp-ai/supercov](https://github.com/supercorp-ai/supercov/tree/main/plugins/supercov/skills/supercov)** - Measure test coverage and write tests for untested code
+- **[prisma/skills](https://github.com/prisma/skills)** - Official Prisma skills: ORM, Postgres, Compute and migrations
+- **[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)** - Unlock AI design potential through UI exploration and visual review
+- **[moxno/privacyscrubber-guard](https://github.com/moxno/privacyscrubber-mcp/tree/main/skills/privacyscrubber-guard)** - Sanitize PII and secrets in RAM before agent calls
 
 </details>
 
@@ -1810,7 +1799,11 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Tencent/aig-agent-redteam](https://github.com/Tencent/AI-Infra-Guard/tree/main/skills/aig-agent-redteam)** - One-command Agent red-team security assessment skill
 - **[ilyautov/small-business-ru](https://github.com/ilyautov/small-business-ru/tree/main/small-business-ru/skills)** - 34 skills for Russian small business: taxes, deadlines, counterparty checks
 - **[eatmoreduck/boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)** - BOSS Zhipin (zhipin.com) job scraper via Chrome CDP, plaintext salaries
+- **[AceDataCloud/fish-audio](https://github.com/AceDataCloud/Skills/tree/main/skills/fish-audio)** - Generate speech and clone voices with Fish Audio
+- **[yang0/handraw-style](https://github.com/yang0/handraw-style)** - Hand-drawn illustration styles, layouts, and prompts for image generation
+- **[OptimNow/cloud-finops-skills](https://github.com/OptimNow/cloud-finops-skills/tree/main/skills/cloud-finops)** - FinOps knowledge: cloud billing mechanics, commitments, allocation, AI spend
 - **[elithril/blender-kiln](https://github.com/elithril/blender-kiln/tree/main/plugin)** - Text or photo to game-ready GLB through Blender MCP
+- **[assafkip/claudemy](https://github.com/assafkip/claudemy)** - Any topic into 2-minute audio lessons with cited sources
 
 </details>
 
