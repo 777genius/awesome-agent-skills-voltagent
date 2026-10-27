@@ -419,6 +419,15 @@ Official skills by Venice.ai for the Venice API.
 - **[vercel-labs/next-best-practices](https://officialskills.sh/vercel-labs/skills/next-best-practices)** - Next.js best practices and recommended patterns
 - **[vercel-labs/next-cache-components](https://officialskills.sh/vercel-labs/skills/next-cache-components)** - Caching strategies and cache-aware components in Next.js
 - **[vercel-labs/next-upgrade](https://officialskills.sh/vercel-labs/skills/next-upgrade)** - Upgrade Next.js projects to newer versions
+- **[vercel-labs/composition-patterns](https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns)** - Scalable React composition patterns for reusable component APIs
+- **[vercel-labs/deploy-to-vercel](https://github.com/vercel-labs/agent-skills/tree/main/skills/deploy-to-vercel)** - Deploy applications and websites to Vercel
+- **[vercel-labs/react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices)** - React and Next.js performance optimization guidelines
+- **[vercel-labs/react-native-skills](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-native-skills)** - React Native and Expo best practices for performant apps
+- **[vercel-labs/react-view-transitions](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-view-transitions)** - Native-feeling animations with React View Transitions
+- **[vercel-labs/vercel-cli-with-tokens](https://github.com/vercel-labs/agent-skills/tree/main/skills/vercel-cli-with-tokens)** - Deploy and manage Vercel projects with token authentication
+- **[vercel-labs/vercel-optimize](https://github.com/vercel-labs/agent-skills/tree/main/skills/vercel-optimize)** - Metric-backed Vercel cost and performance optimization audits
+- **[vercel-labs/web-design-guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines)** - Review UI code against Web Interface Guidelines
+- **[vercel-labs/writing-guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/writing-guidelines)** - Review documentation against Writing Guidelines
 
 </details>
 
