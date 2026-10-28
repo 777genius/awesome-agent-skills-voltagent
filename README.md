@@ -1600,6 +1600,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[chrisryugj/kordoc](https://github.com/chrisryugj/kordoc/tree/main/plugins/kordoc/skills/kordoc)** - Convert Korean HWP/HWPX documents to Markdown, fill forms, generate HWPX
 - **[bablobanov/hermes-telegram-checklist](https://github.com/bablobanov/hermes-telegram-checklist)** - Create and manage native Telegram checklists with verified writes
 - **[siril9/presentation-skill](https://github.com/siril9/presentation-skill)** - Generate editable PowerPoint decks from source with visual QA.
+- **[ysskrishna/ai-agent-skills](https://github.com/ysskrishna/ai-agent-skills)** - Structured thinking skills: five whys, pre-mortem, trade-offs
 - **[AugustusW/audio-tldr](https://github.com/AugustusW/audio-tldr-skill/tree/main/skills/audio-tldr)** - Summarize videos and podcasts with local, cached transcription
 - **[voygr-tech/placecall](https://github.com/voygr-tech/placecall/tree/main/skills/placecall)** - Calls US businesses by phone and returns outcome and transcript
 - **[arifszn/slide-wright](https://github.com/arifszn/slide-wright)** - Generate themed HTML slide decks, export to PowerPoint or PDF
