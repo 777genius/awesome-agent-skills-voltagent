@@ -77,6 +77,14 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Red Hat](#skills-by-redhat) | [Community](#community-skills) | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) |
 | [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  |  |
 
+<br/>
+
+<a href="https://launchkit.getdesign.md/">
+<img src="https://cdn.voltagent.dev/awesome-repo/website-starter-kit-banner-dark-0315e5f9c1.png" alt="launchkit"  /><br/>
+</a>
+
+<br/>
+
 
 
 
