@@ -1719,6 +1719,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[gal-a/qikly](https://github.com/gal-a/qikly/tree/main/.claude/skills/qikly)** - Writes pytest suites from criteria the coding agent never sees
 - **[supercorp-ai/supercov](https://github.com/supercorp-ai/supercov/tree/main/plugins/supercov/skills/supercov)** - Measure test coverage and write tests for untested code
 - **[prisma/skills](https://github.com/prisma/skills)** - Official Prisma skills: ORM, Postgres, Compute and migrations
+- **[edonadei/evaluate-skill](https://github.com/edonadei/caliper/tree/main/skills/evaluate-skill)** - Measures skill reliability with repeated runs, with and without it
 - **[tushaarmehtaa/tushar-skills](https://github.com/tushaarmehtaa/tushar-skills)** - 34 workflow skills for deploys, outreach, fundraising, specs, launches
 - **[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)** - Unlock AI design potential through UI exploration and visual review
 - **[skymanbp/cc-tree](https://github.com/skymanbp/cc-tree)** - Auditable radial-tree exploration for brainstorming, critique, design and code audit
