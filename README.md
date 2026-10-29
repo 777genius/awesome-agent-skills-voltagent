@@ -1602,6 +1602,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[chrisryugj/kordoc](https://github.com/chrisryugj/kordoc/tree/main/plugins/kordoc/skills/kordoc)** - Convert Korean HWP/HWPX documents to Markdown, fill forms, generate HWPX
 - **[bablobanov/hermes-telegram-checklist](https://github.com/bablobanov/hermes-telegram-checklist)** - Create and manage native Telegram checklists with verified writes
 - **[siril9/presentation-skill](https://github.com/siril9/presentation-skill)** - Generate editable PowerPoint decks from source with visual QA.
+- **[teableio/teable-assistant-ops](https://github.com/teableio/agent-skills/tree/main/skills/teable-assistant-ops)** - Manage [Teable](https://teable.ai) data, SQL queries, automations, and apps.
 - **[cbrock84/headcount](https://github.com/cbrock84/headcount)** - Company departments as installable skills, each citing its sources
 - **[luchasarie/bro](https://github.com/luchasarie/bro-skill)** - Re-explains the last reply in plain language
 - **[radres/call-me](https://github.com/radres/call-me/tree/main/skill)** - Agent phones your iPhone and returns your spoken answer
