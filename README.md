@@ -1629,6 +1629,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[AugustusW/audio-tldr](https://github.com/AugustusW/audio-tldr-skill/tree/main/skills/audio-tldr)** - Summarize videos and podcasts with local, cached transcription
 - **[voygr-tech/placecall](https://github.com/voygr-tech/placecall/tree/main/skills/placecall)** - Calls US businesses by phone and returns outcome and transcript
 - **[arifszn/slide-wright](https://github.com/arifszn/slide-wright)** - Generate themed HTML slide decks, export to PowerPoint or PDF
+- **[MSG91/m91-skill](https://github.com/MSG91/m91-skill)** - Ask a human for approval on their phone
 - **[kklimuk/docx-cli](https://github.com/kklimuk/docx-cli)** - Work on .docx files at ~1/2 cost of other skills.
 
 </details>
