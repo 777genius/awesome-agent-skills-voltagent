@@ -1539,6 +1539,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[AbubakrChan/product-launch-motion](https://github.com/AbubakrChan/product-launch-motion)** - Website URL to 60 fps launch video with music.
 - **[yuwen-cool/yuwen-publish-precheck](https://github.com/yuwen-cool/yuwen-publish-precheck)** - Review Chinese social content before publishing, with source-backed corrections
 - **[publora/skills](https://github.com/publora/skills)** - Draft, schedule and publish posts to ten social networks
+- **[checkout-page/ecommerce-skills](https://github.com/checkout-page/ecommerce-skills)** - 19 research-based skills for ecommerce pricing, discounts, and checkout
 - **[shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents)** - B2B SaaS marketing team: 90 agents, one orchestrator
 - **[emotixco/claude-skills-founder](https://github.com/emotixco/claude-skills-founder)** - Validate ideas, research competitors, price, pitch, and plan launches.
 - **[karero/croftweaver](https://github.com/karero/croftweaver)** - Builds small-business websites, then keeps improving their SEO and GEO
