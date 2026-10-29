@@ -1863,6 +1863,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[hyperb1iss/unifly](https://github.com/hyperb1iss/unifly/tree/main/skills/unifly)** - Inspect and manage Ubiquiti UniFi networks through the unifly CLI
 - **[MetaMask/metamask-agent-wallet](https://github.com/MetaMask/agent-skills/tree/main/skills/metamask-agent-wallet)** - Official MetaMask self-custodial wallet: swaps, bridges, perps, x402 payments
 - **[assafkip/claudemy](https://github.com/assafkip/claudemy)** - Any topic into 2-minute audio lessons with cited sources
+- **[verdikta/verdikta-bounties-onboarding](https://github.com/verdikta/verdikta-applications/tree/main/skills/verdikta-bounties-onboarding)** - Hunt and post AI-judged escrow bounties on Base
 - **[nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills)** - 150+ ecommerce skills for Amazon, Shopify, Etsy, TikTok sellers
 
 </details>
