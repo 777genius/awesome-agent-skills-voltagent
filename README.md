@@ -1564,6 +1564,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[emotixco/claude-skills-founder](https://github.com/emotixco/claude-skills-founder)** - Validate ideas, research competitors, price, pitch, and plan launches.
 - **[karero/croftweaver](https://github.com/karero/croftweaver)** - Builds small-business websites, then keeps improving their SEO and GEO
 - **[harshmaur/apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper)** - Scrape Reddit posts, comments and subreddits without an API key
+- **[coupler-io/skills](https://github.com/coupler-io/skills)** - Marketing, sales and finance analytics with live business data
 
 </details>
 
