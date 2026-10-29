@@ -1733,6 +1733,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)** - Unlock AI design potential through UI exploration and visual review
 - **[skymanbp/cc-tree](https://github.com/skymanbp/cc-tree)** - Auditable radial-tree exploration for brainstorming, critique, design and code audit
 - **[moxno/privacyscrubber-guard](https://github.com/moxno/privacyscrubber-mcp/tree/main/skills/privacyscrubber-guard)** - Sanitize PII and secrets in RAM before agent calls
+- **[sno-ai/sno-station-skills](https://github.com/sno-ai/sno-station-skills)** - Claude Code and Codex skills: cross-vendor review, quota handoff
 - **[rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)** - Workflow skills, project memory, and model routing for Hermes Agent
 - **[fullselfbrowsing/fsb](https://github.com/fullselfbrowsing/FSB/tree/main/skills/fsb)** - Drive your signed-in Chromium browser through FSB's MCP tools
 - **[first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent)** - Harness skills linked into Claude Code, Codex, Cursor and more
