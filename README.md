@@ -1866,6 +1866,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[assafkip/claudemy](https://github.com/assafkip/claudemy)** - Any topic into 2-minute audio lessons with cited sources
 - **[verdikta/verdikta-bounties-onboarding](https://github.com/verdikta/verdikta-applications/tree/main/skills/verdikta-bounties-onboarding)** - Hunt and post AI-judged escrow bounties on Base
 - **[nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills)** - 150+ ecommerce skills for Amazon, Shopify, Etsy, TikTok sellers
+- **[KalarisLabs/research-agent-skills](https://github.com/KalarisLabs/research-agent-skills)** - 280+ skills for literature review, analysis, and paper writing
 
 </details>
 
